@@ -8,7 +8,7 @@
 :orange_book: Currently learning about : ReactJS, Next.js, Styled Components, Tailwindcss, Strapi, Flutter
 
 
-[![Twitter](https://img.shields.io/badge/Adoniro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Adoniro)	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adoniro-salles-03bbb674) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail:adonirosalles@gmail.com)
+[![Twitter](https://img.shields.io/badge/Adoniro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Adoniro)	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adoniro-salles-03bbb674) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonirosalles@gmail.com)
 
 <!--
 **AdoniroSalles/AdoniroSalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
