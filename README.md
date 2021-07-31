@@ -1,6 +1,5 @@
-# Hi, i am Adoniro Salles 
-
- ### Gratuated in computer engineering, passionate about new technologies and aways wanting to learn more and more. Working with full stack and mobile developer
+##  Hi, i am Adoniro Salles 
+Gratuated in computer engineering, passionate about new technologies and aways wanting to learn more and more. Working with full stack and mobile developer
 
 
 <!--
