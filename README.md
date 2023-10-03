@@ -1,4 +1,4 @@
-## Hello friends  :smiley:
+## Hello :smiley:
 
 :dash: I'm Adoniro Salles, a full-stack developer. I'm passionate about new technologies and always wanting to learn more.
 
