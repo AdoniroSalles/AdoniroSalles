@@ -1,9 +1,9 @@
 ## Hello friends  :smiley:
 
-:dash: I'm Adoniro Salles, full stack developer passionate about new technologies and aways wanting to learn more and more. 
+:dash: I'm Adoniro Salles, a full-stack developer. I'm passionate about new technologies and always wanting to learn more.
 
 
-:dart:  Skills :  HTML, CSS, JavaScript, Angular 2+, Bootstrap, Uikit, PHP, CodeIgniter, Node.js, MongoDB, MySQL.
+:dart:  Skills :  HTML, CSS, JavaScript, Angular 2+, .NET, C#, Sql Server, Bootstrap, Uikit, PHP, CodeIgniter, Node.js, MongoDB, MySQL.
 
 :orange_book: Currently learning about : ReactJS, Next.js, Styled Components, Tailwindcss, Strapi, Flutter
 
